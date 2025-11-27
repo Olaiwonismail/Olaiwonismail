@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Olaiwon Ismail  
 - 💻 I’m interested in Backend Development  
-- 🌱 I’m currently learning Node.js  
+- 🌱 I’m currently learning Golang  
 - 🎓 Systems Engineering student at University of Lagos  
 - 🤝 I’m looking to collaborate on open source projects
 
