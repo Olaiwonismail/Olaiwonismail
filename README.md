@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Olaiwon Ismail  
--  👨‍💻 wannabe swe
+-  👨‍💻 Software Developer -Backend
 - 💻 I’m interested in Backend Development  
 - 🌱 I’m currently learning Golang  
 - 🎓 Systems Engineering student at University of Lagos  
